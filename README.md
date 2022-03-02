@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @alexandergichimu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...via +254 714938683
-
-<!---
-alexandergichimu/alexandergichimu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in ...learning new things new technology
+- Am looking forward to contribute in any open source security project
+- 
+-
