@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @alexandergichimu
-- 👀 I’m interested in ...learning new things new technology
-- Am looking forward to contribute in any open source security project
-- 
+ALEXANDER  is a young software developer intrested in open sourse projects 
 -
