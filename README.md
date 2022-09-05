@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **open source project**
 
-- 🤝 I’m looking for help with **database linking**
+- 🤝 I’m looking forward to working with anybody
 
 - 📫 How to reach me **alexandergichimu98@gmail.com**
 
