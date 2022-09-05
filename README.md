@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **alexandergichimu98@gmail.com**
 
-- ⚡ Fun fact **I think am just funny**
+- ⚡ Fun fact **You are always living in the past**
 
 
 <p align="left">
