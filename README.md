@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandergichimu&label=Profile%20views&color=0e75b6&style=flat" alt="alexandergichimu" /> </p>
 
-- 🌱 I’m currently learning **java and fronted web development**
+- 🌱 I’m currently learning **kotlin and fronted web development**
 
 - 👯 I’m looking to collaborate on **open source project**
 
